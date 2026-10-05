@@ -132,6 +132,9 @@ c:\vijay chatbotnew\
 ├── run.bat                # Windows quick launcher
 ├── README.md              # Project documentation
 ├── ABSTRACT.md            # Project abstract
+## 🚀 Live Chatbot
+
+[Open Chatbot](https://springs-syndicate-leisure-wash.trycloudflare.com)
 ├── test_chatbot.py        # Automated test suite
 ├── core/
 │   ├── config.py          # App configurations, directories, & paths
