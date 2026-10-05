@@ -157,3 +157,5 @@ c:\vijay chatbotnew\
         ├── document.js    # File drag-and-drop & attachment manager
         └── image.js       # Image upload, drag-and-drop, clipboard paste, & thumbnail manager
 ```
+[Open Chatbot](https://springs-syndicate-leisure-wash.trycloudflare.com)
+
